@@ -1,1 +1,1 @@
-# Innomatic_hackathon_task
+# Innomatics_hackathon_task
